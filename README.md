@@ -4,6 +4,7 @@ Sample was taken from students of SMU
 
 Technologies used:
 - Pandas
+- StatsModels
 - Matplotlib
 - Seaborn
 
